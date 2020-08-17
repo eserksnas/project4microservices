@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<eserksnas>](https://circleci.com/gh/eserksnas/project4microservices.svg?style=svg)](<https://circleci.com/gh/eserksnas/project4microservices>)
 
 ## Project Overview
 

@@ -17,3 +17,11 @@
 0     0  6.575  296.0     15.3  396.9   4.98
 [2020-08-17 19:09:21,595] INFO in app: Output prediction: [20.35373177134412]
 172.17.0.1 - - [17/Aug/2020 19:09:21] "POST /predict HTTP/1.1" 200 -
+
+#make_prediction.sh output required for resubmission by reviewer - directions were unclear as to if they wanted this in kubernetes_out.txt or docker_out.txt
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
